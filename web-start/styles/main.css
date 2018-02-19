@@ -197,3 +197,21 @@ main, #messages-card {
   top: -1px;
   margin-right: 5px;
 }
+    video {
+  background-color: #ddd;
+  border-radius: 7px;
+  margin: 10px 0px 0px 10px;
+  width: 240px;
+  height: 240px;
+}
+#bb {
+  margin: 5px 0px 0px 10px !important;
+  width: 100%;
+}
+video {
+    background-color: white;
+    border-radius: 7px;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
