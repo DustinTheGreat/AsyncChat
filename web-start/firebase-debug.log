@@ -1,0 +1,399 @@
+[debug] [2018-02-19T17:00:10.975Z] ----------------------------------------------------------------------
+[debug] [2018-02-19T17:00:10.978Z] Command:       /home/nsa/.nvm/versions/node/v9.5.0/bin/node /usr/local/bin/firebase serve
+[debug] [2018-02-19T17:00:10.978Z] CLI Version:   3.17.4
+[debug] [2018-02-19T17:00:10.978Z] Platform:      linux
+[debug] [2018-02-19T17:00:10.978Z] Node Version:  v9.5.0
+[debug] [2018-02-19T17:00:10.978Z] Time:          Mon Feb 19 2018 12:00:10 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:10.978Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-02-19T17:00:10.990Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-02-19T17:00:10.990Z] > authorizing via signed-in user
+[debug] [2018-02-19T17:00:10.992Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:00:10 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:11.346Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:00:11.346Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-739e3/tokens  
+  
+ Mon Feb 19 2018 12:00:11 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:11.616Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/home/nsa/Code/firebase/web-start'...
+[info] 
+[debug] [2018-02-19T17:00:11.621Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:00:11 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:11.785Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:00:11.786Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:00:11 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:11.985Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2018-02-19T17:00:12.003Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:00:12 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:12.192Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:00:12.193Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:00:12 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:12.480Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2018-02-19T17:00:12.485Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:00:12 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:12.626Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:00:12.627Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:00:12 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:12.892Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5008 is not available. Trying another port...
+[debug] [2018-02-19T17:00:12.896Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:00:12 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:13.052Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:00:13.053Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:00:13 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:13.209Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5012 is not available. Trying another port...
+[debug] [2018-02-19T17:00:13.213Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:00:13 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:13.363Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:00:13.364Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:00:13 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:13.648Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5016 is not available. Trying another port...
+[debug] [2018-02-19T17:00:13.651Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:00:13 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:13.788Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:00:13.788Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:00:13 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:14.056Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5020 is not available. Trying another port...
+[debug] [2018-02-19T17:00:14.059Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:00:14 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:14.210Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:00:14.210Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:00:14 GMT-0500 (EST)
+[debug] [2018-02-19T17:00:14.453Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5024
+
+[debug] [2018-02-19T17:03:32.697Z] ----------------------------------------------------------------------
+[debug] [2018-02-19T17:03:32.700Z] Command:       /home/nsa/.nvm/versions/node/v9.5.0/bin/node /usr/local/bin/firebase serve
+[debug] [2018-02-19T17:03:32.701Z] CLI Version:   3.17.4
+[debug] [2018-02-19T17:03:32.701Z] Platform:      linux
+[debug] [2018-02-19T17:03:32.701Z] Node Version:  v9.5.0
+[debug] [2018-02-19T17:03:32.701Z] Time:          Mon Feb 19 2018 12:03:32 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:32.701Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-02-19T17:03:32.712Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-02-19T17:03:32.713Z] > authorizing via signed-in user
+[debug] [2018-02-19T17:03:32.714Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:03:32 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:32.954Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:03:32.955Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-739e3/tokens  
+  
+ Mon Feb 19 2018 12:03:32 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:33.188Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/home/nsa/Code/firebase/web-start'...
+[info] 
+[debug] [2018-02-19T17:03:33.195Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:03:33 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:33.356Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:03:33.357Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:03:33 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:33.670Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2018-02-19T17:03:33.692Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:03:33 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:33.837Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:03:33.838Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:03:33 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:34.041Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2018-02-19T17:03:34.045Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:03:34 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:34.183Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:03:34.184Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:03:34 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:34.435Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5008 is not available. Trying another port...
+[debug] [2018-02-19T17:03:34.439Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:03:34 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:34.582Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:03:34.583Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:03:34 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:34.771Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5012 is not available. Trying another port...
+[debug] [2018-02-19T17:03:34.775Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:03:34 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:34.945Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:03:34.946Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:03:34 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:35.092Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5016 is not available. Trying another port...
+[debug] [2018-02-19T17:03:35.095Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:03:35 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:35.237Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:03:35.238Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:03:35 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:35.403Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5020 is not available. Trying another port...
+[debug] [2018-02-19T17:03:35.405Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:03:35 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:35.550Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:03:35.552Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:03:35 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:35.737Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5024 is not available. Trying another port...
+[debug] [2018-02-19T17:03:35.740Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:03:35 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:35.882Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:03:35.883Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:03:35 GMT-0500 (EST)
+[debug] [2018-02-19T17:03:36.049Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5028
+
+[debug] [2018-02-19T17:04:35.032Z] ----------------------------------------------------------------------
+[debug] [2018-02-19T17:04:35.035Z] Command:       /home/nsa/.nvm/versions/node/v9.5.0/bin/node /usr/local/bin/firebase serve
+[debug] [2018-02-19T17:04:35.036Z] CLI Version:   3.17.4
+[debug] [2018-02-19T17:04:35.036Z] Platform:      linux
+[debug] [2018-02-19T17:04:35.036Z] Node Version:  v9.5.0
+[debug] [2018-02-19T17:04:35.036Z] Time:          Mon Feb 19 2018 12:04:35 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:35.036Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-02-19T17:04:35.046Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-02-19T17:04:35.046Z] > authorizing via signed-in user
+[debug] [2018-02-19T17:04:35.049Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:04:35 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:35.294Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:04:35.294Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-739e3/tokens  
+  
+ Mon Feb 19 2018 12:04:35 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:35.610Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/home/nsa/Code/firebase/web-start'...
+[info] 
+[debug] [2018-02-19T17:04:35.616Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:04:35 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:35.777Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:04:35.778Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:04:35 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:36.082Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2018-02-19T17:04:36.098Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:04:36 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:36.286Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:04:36.286Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:04:36 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:36.666Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2018-02-19T17:04:36.670Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:04:36 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:36.832Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:04:36.833Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:04:36 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:37.121Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5008 is not available. Trying another port...
+[debug] [2018-02-19T17:04:37.125Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:04:37 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:37.262Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:04:37.263Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:04:37 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:37.545Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5012 is not available. Trying another port...
+[debug] [2018-02-19T17:04:37.549Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:04:37 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:37.688Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:04:37.689Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:04:37 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:38.021Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5016 is not available. Trying another port...
+[debug] [2018-02-19T17:04:38.025Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:04:38 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:38.173Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:04:38.174Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:04:38 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:38.441Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5020 is not available. Trying another port...
+[debug] [2018-02-19T17:04:38.445Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:04:38 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:38.585Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:04:38.586Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:04:38 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:38.821Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5024 is not available. Trying another port...
+[debug] [2018-02-19T17:04:38.825Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:04:38 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:38.996Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:04:38.997Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:04:38 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:39.268Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5028 is not available. Trying another port...
+[debug] [2018-02-19T17:04:39.271Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:04:39 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:39.558Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:04:39.559Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:04:39 GMT-0500 (EST)
+[debug] [2018-02-19T17:04:39.752Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5032
+
+[info] Shutting down...
+[debug] [2018-02-19T17:06:23.040Z] ----------------------------------------------------------------------
+[debug] [2018-02-19T17:06:23.043Z] Command:       /home/nsa/.nvm/versions/node/v9.5.0/bin/node /usr/local/bin/firebase serve
+[debug] [2018-02-19T17:06:23.043Z] CLI Version:   3.17.4
+[debug] [2018-02-19T17:06:23.043Z] Platform:      linux
+[debug] [2018-02-19T17:06:23.043Z] Node Version:  v9.5.0
+[debug] [2018-02-19T17:06:23.044Z] Time:          Mon Feb 19 2018 12:06:23 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:23.044Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-02-19T17:06:23.054Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-02-19T17:06:23.054Z] > authorizing via signed-in user
+[debug] [2018-02-19T17:06:23.056Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:06:23 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:23.382Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:06:23.384Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-739e3/tokens  
+  
+ Mon Feb 19 2018 12:06:23 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:23.690Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/home/nsa/Code/firebase/web-start'...
+[info] 
+[debug] [2018-02-19T17:06:23.697Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:06:23 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:23.867Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:06:23.868Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:06:23 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:24.104Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2018-02-19T17:06:24.122Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:06:24 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:24.262Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:06:24.263Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:06:24 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:24.517Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2018-02-19T17:06:24.522Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:06:24 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:24.674Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:06:24.674Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:06:24 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:24.968Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5008 is not available. Trying another port...
+[debug] [2018-02-19T17:06:24.971Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:06:24 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:25.112Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:06:25.113Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:06:25 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:25.281Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5012 is not available. Trying another port...
+[debug] [2018-02-19T17:06:25.283Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:06:25 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:25.464Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:06:25.465Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:06:25 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:25.712Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5016 is not available. Trying another port...
+[debug] [2018-02-19T17:06:25.716Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:06:25 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:25.865Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:06:25.866Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:06:25 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:26.055Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5020 is not available. Trying another port...
+[debug] [2018-02-19T17:06:26.058Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:06:26 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:26.208Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:06:26.209Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:06:26 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:26.600Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5024 is not available. Trying another port...
+[debug] [2018-02-19T17:06:26.604Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:06:26 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:26.746Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:06:26.747Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:06:26 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:27.116Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5028 is not available. Trying another port...
+[debug] [2018-02-19T17:06:27.119Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:06:27 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:27.257Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:06:27.258Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:06:27 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:27.484Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5032 is not available. Trying another port...
+[debug] [2018-02-19T17:06:27.488Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-739e3  
+  
+ Mon Feb 19 2018 12:06:27 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:27.628Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-19T17:06:27.629Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/577894259711/clients/_:getWebAppConfig  
+  
+ Mon Feb 19 2018 12:06:27 GMT-0500 (EST)
+[debug] [2018-02-19T17:06:27.860Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5036
+
